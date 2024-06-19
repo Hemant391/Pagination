@@ -24,6 +24,7 @@ function App() {
       setAllinfo(data)
       setInfo(displaydata)
     }catch(e){
+      alert("Api doesn't work")
       console.log(e)
     }
   }
