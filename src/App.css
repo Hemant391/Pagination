@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.tabel{
+  display: flex;
+  align-items: center;
+  display: flex;
+    width: 100%;
+    justify-content: center;
+}
+th{
+  padding: 8px;
+}
+tr {
+  padding: 5px;
+ height: 30px;
+}
+button{
+  padding: 8px;
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 8px;
+  margin: 8px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+
