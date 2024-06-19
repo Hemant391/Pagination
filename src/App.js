@@ -24,7 +24,7 @@ function App() {
       setAllinfo(data)
       setInfo(displaydata)
     }catch(e){
-      alert("Api doesn't work")
+      alert("failed to fetch data")
       console.log(e)
     }
   }
